@@ -20,9 +20,6 @@ Motion-driven Arduino automation system that detects presence and sorts waste au
 At age 13, I independently built and upgraded a full PC system, including hardware selection, BIOS updates, cooling replacement, and performance tuning.
 
 🛠 **Technology:** BIOS • Hardware Assembly • Optimization  
-📁 **Guide:** https://github.com/achilleaschristou/Portfolio/tree/main/First_PC_Build  
-
-![Custom PC](images/pc_build.png)
 
 ---
 
