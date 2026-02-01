@@ -1,25 +1,30 @@
-# Portfolio
-🌐 **Live Portfolio:** https://achilleaschristou.github.io
+# 💻 Achilleas Christou – Tech Portfolio
 
-A portfolio of my tech projects: self-built PCs, Arduino automation, Python experiments, and embedded systems. Showcasing hands-on coding, hardware skills, and innovation as I work toward a future in computer engineering. 🚀💻🤖
-# Achilleas' Tech Portfolio 💻⚡
+🌐 **Live Portfolio:** https://achilleaschristou.github.io  
+📌 GitHub: https://github.com/achilleaschristou
 
-Hi! I’m Achilleas, 14 years old, a self-taught PC builder, coder, and tinkerer. I turn ideas into real projects — from building PCs to creating smart devices with Python and Arduino.  
+## 🚀 Projects
 
-## Projects
+---
 
-### 1. Smart Powered Trash Bin 🤖♻️
-- **Description:** Motion-activated bin that sorts rubbish automatically.
-- **Tech:** Arduino, Python, Sensors, Motors
+### 🤖 Smart Powered Trash Bin
+- 🧠 Motion-activated Arduino automation
+- 🛠️ Tech: Arduino, Sensors, Motors, Python
+- 📁 Code: https://github.com/achilleaschristou/Portfolio/tree/main/Smart_Trash_Bin  
+![Smart Trash Bin](images/smart_bin_demo.png)
 
-### 2. First PC Build 💻⚡
-- **Description:** Built my first PC at 13, upgraded CPU, PSU, cooler, BIOS, and optimized performance.
-- **Tech:** Hardware, BIOS, Overclocking
+---
 
-### 3. Python & Arduino Mini Projects 🐍🔧
-- **Description:** Small-scale projects combining Python & Arduino.
-- **Tech:** Python, C++, Arduino
+### 💻 Custom PC Build
+- 🔧 Built my first PC at 13 — parts, BIOS, upgrades, tuning
+- 🧠 Tech: Hardware assembly, BIOS, optimization
+- 📁 Guide: https://github.com/achilleaschristou/Portfolio/tree/main/First_PC_Build  
+![Custom PC](images/pc_build.png)
 
-### 4. Embedded Systems & Automation ⚙️
-- **Description:** Experiments automating tasks with microcontrollers and sensors.
-- **Tech:** Arduino, Sensors, Motors
+---
+
+## 🛠 Skills
+Python | Arduino | C++ | HTML | PC Hardware | BIOS & Overclocking | Embedded Systems
+
+## 🎯 Goals
+Study Computer Engineering at TEPAK, build advanced automation systems, and work in cutting-edge tech 🚀
