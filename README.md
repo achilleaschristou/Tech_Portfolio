@@ -37,4 +37,4 @@ Embedded Systems • Automation Logic
 
 ## 🎯 Objectives
 
-Work in cutting-edge technology, develop advanced automation systems, and pursue Computer Engineering studies at TEPAK 🚀
+Work in cutting-edge technology, develop advanced automation systems, and pursue Computer Engineering studies at TEΠAK 🚀
