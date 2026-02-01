@@ -17,7 +17,7 @@
 ### Smart Powered Trash Bin ♻️
 ### An Arduino-based intelligent waste system that detects motion and sorts materials automatically.
 
-###📁 [View Project](Smart_Trash_Bin/)  
+📁 [View Project](Smart_Trash_Bin/)  
 ### 🛠 Arduino • Sensors • Embedded automation
 
 ---
@@ -26,15 +26,15 @@
 ### Designed, assembled, and upgraded a full PC system independently, including BIOS configuration, cooling replacement, and power optimization.
 
 📁 [View Project](PC_Build/)  
-🛠 Hardware • BIOS tuning • Performance optimization
+### 🛠 Hardware • BIOS tuning • Performance optimization
 
 ---
 
 ## 🛠 Skills
-Python • Arduino (C/C++) • Basic C++ • HTML  
-PC hardware assembly • BIOS configuration  
-Overclocking & undervolting  
-Embedded systems • Automation logic
+### Python • Arduino (C/C++) • Basic C++ • HTML  
+### PC hardware assembly • BIOS configuration  
+### Overclocking & undervolting  
+### Embedded systems • Automation logic
 
 ---
 
