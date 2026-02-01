@@ -1,30 +1,27 @@
-# 💻 Achilleas Christou – Tech Portfolio
+# 💻 Tech Portfolio of Achilleas Christou
 
-🌐 **Live Portfolio:** https://achilleaschristou.github.io  
-📌 GitHub: https://github.com/achilleaschristou
+🌐 Live Portfolio: https://achilleaschristou.github.io
 
-## 🚀 Projects
+📌 GitHub: https://github.com/achilleaschristou ## 🚀 Projects
 
----
+--- ### 🤖 Intelligent Trash Can
 
-### 🤖 Smart Powered Trash Bin
-- 🧠 Motion-activated Arduino automation
-- 🛠️ Tech: Arduino, Sensors, Motors, Python
-- 📁 Code: https://github.com/achilleaschristou/Portfolio/tree/main/Smart_Trash_Bin  
-![Smart Trash Bin](images/smart_bin_demo.png)
+Motion-driven Arduino automation
 
----
+🛠️ Technology: Arduino, Motors, Sensors, Python
 
-### 💻 Custom PC Build
-- 🔧 Built my first PC at 13 — parts, BIOS, upgrades, tuning
-- 🧠 Tech: Hardware assembly, BIOS, optimization
-- 📁 Guide: https://github.com/achilleaschristou/Portfolio/tree/main/First_PC_Build  
-![Custom PC](images/pc_build.png)
+The code can be found at https://github.com/achilleaschristou/Portfolio/tree/main/Smart_Trash_Bin![Smart Trash Bin](images/smart_bin_demo.png)
 
----
+--- ### 💻 Custom Computer Assembly
 
-## 🛠 Skills
-Python | Arduino | C++ | HTML | PC Hardware | BIOS & Overclocking | Embedded Systems
+At the age of 13, I built my first computer, including parts, BIOS, upgrades, and tuning.
 
-## 🎯 Goals
-Study Computer Engineering at TEPAK, build advanced automation systems, and work in cutting-edge tech 🚀
+Tech: BIOS, hardware assembly, and optimization
+
+The guide can be found at https://github.com/achilleaschristou/Portfolio/tree/main/First_PC_Build![Custom PC](images/pc_build.png)
+
+--- ## 🛠 Capabilities
+
+Python, Arduino, C++, HTML, PC Hardware, BIOS & Overclocking, and Embedded Systems🎯 Objectives
+
+Work in cutting-edge technology, develop sophisticated automation systems, and study computer engineering at TEPAK 🚀
