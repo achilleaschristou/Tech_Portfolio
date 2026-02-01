@@ -13,7 +13,6 @@ Motion-driven Arduino automation system that detects presence and sorts waste au
 🛠 **Technology:** Arduino • Motors • Sensors • Python  
 📁 **Code:** https://github.com/achilleaschristou/Portfolio/tree/main/Smart_Trash_Bin  
 
-![Smart Trash Bin](images/smart_bin_demo.png)
 
 ---
 
