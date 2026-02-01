@@ -22,8 +22,8 @@ An Arduino-based intelligent waste system that detects motion and sorts material
 
 ---
 
-### Custom PC Build & Hardware Optimization 💻
-Designed, assembled, and upgraded a full PC system independently, including BIOS configuration, cooling replacement, and power optimization.
+## Custom PC Build & Hardware Optimization 💻
+### Designed, assembled, and upgraded a full PC system independently, including BIOS configuration, cooling replacement, and power optimization.
 
 📁 [View Project](PC_Build/)  
 🛠 Hardware • BIOS tuning • Performance optimization
