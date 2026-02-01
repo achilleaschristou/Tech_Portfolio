@@ -19,7 +19,6 @@ To design and build a practical smart system that demonstrates applied engineeri
 
 ## 📁 Structure
 - `/code` → Source files
-- `/images` → Project visuals and diagrams
 
 ---
 
