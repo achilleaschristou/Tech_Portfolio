@@ -18,7 +18,7 @@ Arduino (C/C++), sensors, motors, embedded automation
 To design and build a practical smart system that demonstrates applied engineering principles in automation, electronics, and embedded programming.
 
 ## 📁 Structure
-- `/code` → https://github.com/achilleaschristou/Portfolio/main/Smart_Trash_Bin/README.md/Code
+- `/code` → https://github.com/achilleaschristou/Portfolio/blob/main/Smart_Trash_Bin/Code.txt
 
 ---
 
