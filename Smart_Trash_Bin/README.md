@@ -1,6 +1,6 @@
 # Smart Powered Trash Bin 🤖♻️
 
-An intelligent Arduino-based automation project that detects hand presence, automatically opens the lid, and sorts waste based on material type.
+The Smart trash bin, works by 
 
 This project combines embedded systems, sensor integration, and mechanical control to create a functional smart waste solution focused on real-world environmental impact.
 
