@@ -1,25 +1,24 @@
 # Smart Powered Trash Bin 🤖♻️
 
-The Smart trash bin, works by firstly detecting if a hand is at the front of the sensor, then the laptop's built in camera detects from what material is the rubbish made out of, then the Kypruino board commands the servo motor thats glued to the lid of the trash can, to open it automatically and at the same time command the 0.91' OLED screen connected directly to the Kypruino board with the built in pins, to show from which material the rubbish is made out of, then the rubbish falls in the plate and it rotates to the right trash can (there are 4 subdivided trash cans inside of the actual trash can) and then the plate moves downward, drops the rubbish and returns in its original position. There is also an app made to tell exactly how much % are the 4 trash cans filled and if they're filled, the app sends a notification to empty the bins.
+The smart trash bin works by first detecting a hand in front of the sensor. Then the laptop’s built-in camera identifies the material of the waste. The Kypruino board commands a servo motor attached to the lid to open it automatically, while simultaneously updating a 0.91″ OLED screen connected to the board to display the detected material. The waste falls onto a rotating plate, which turns toward the correct compartment. There are four subdivided bins inside the main container. The plate lowers, drops the waste into the selected bin, and returns to its original position. A companion app shows the fill percentage of each bin and sends a notification when they are full and need emptying.
 
-This project combines embedded systems, sensor integration, and mechanical control to create a functional smart waste solution focused on real-world environmental impact.
+This project combines, automation and c++ coding. 
 
 ## 🔧 Key Features
 - Motion detection and automatic lid operation
 - Material recognition and sorting logic
-- Embedded microcontroller control
-- Reliable real-time sensor response
-- Modular and maintainable design
+- Microcontroller control
+- Modular and Futuristic
 
-## 🛠 Technologies Used
-Arduino (C/C++), sensors, motors, embedded automation
+## 🛠 Technologies
+Arduino, (C++), sensors, motors
 
 ## 🎯 Objective
-To design and build a practical smart system that demonstrates applied engineering principles in automation, electronics, and embedded programming.
+Make the world a more enviromentally friendly place for all of us and reduce global waste ♻️
 
 ## 📁 Structure
 - `/code` → https://github.com/achilleaschristou/Portfolio/blob/main/Smart_Trash_Bin/Code.txt
 
 ---
 
-Developed as an independent engineering project focused on problem-solving, efficiency, and smart automation.
+Created as an independent engineering project, it seeks to solve problems, improve efficiency, and implement smart automation.
