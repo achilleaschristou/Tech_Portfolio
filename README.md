@@ -33,4 +33,4 @@ PC Hardware • BIOS Configuration • Overclocking • Undervolting • PC Opti
 
 ## 🎯 Objectives
 
-Work in cutting-edge technology, develop advanced automation systems, and pursue Computer Engineering studies at TEΠAK 🚀
+I am looking forward to working for leading technology companies like NVIDIA and AMD and plan to pursue a degree in Computer Engineering at ΤΕΠΑΚ. 🚀
