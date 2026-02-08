@@ -16,9 +16,8 @@ Motion-driven Arduino automation system that detects presence and sorts waste au
 
 ---
 
-### 💻 Custom Computer Assembly
-At age 13, I independently built and upgraded a full PC system, including hardware selection, BIOS updates, cooling replacement, and performance tuning.
-
+### 💻 First Custom Made Computer
+I built my first custom made PC at 13 years of age , optimized it for maximum performance , undervolted and overclcoked my GPU and CPU and updated my BIOS to the latest version!
 🛠 **Technology:** BIOS • Hardware Assembly • Optimization  
 
 ---
