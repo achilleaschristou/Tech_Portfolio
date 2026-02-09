@@ -1,6 +1,5 @@
-# 💻 Tech Portfolio of Achilleas Christou
+# 💻 Tech Portfolio!
 
-🌐 **Live Portfolio:** 
 📌 **GitHub:** https://github.com/achilleaschristou
 
 ---
@@ -18,7 +17,7 @@ A smart trash can made out of a Kypruino Uno+ board (Arduino Uno) which is the m
 ---
 
 ### 💻 First Custom Made Computer
-I built my first custom made PC at 13 years of age , optimized it for maximum performance , undervolted and overclcoked my GPU and CPU and updated my BIOS to the latest version!
+I built my first custom made PC at 13 years of age with absolutely no help, optimized it for maximum performance , undervolted and overclcoked my GPU and CPU and updated my BIOS to the latest version!
 
 🛠 **Technology:** BIOS • Hardware Assembly • Optimization  
 
