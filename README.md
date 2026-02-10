@@ -1,7 +1,5 @@
 # 💻 Tech Portfolio!
 
-📌 **GitHub:** https://github.com/achilleaschristou
-
 ---
 
 ## 🚀 Projects
