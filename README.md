@@ -14,7 +14,7 @@
 
 🛠 **Technology:** Arduino • Motors • Sensors • C++
 
-📁 **Full Explanation on how the Smart trash bin works:** https://github.com/achilleaschristou/Portfolio/tree/main/Smart_Trash_Bin  
+📁 **Full Explanation on how the Smart trash bin works:** https://github.com/achilleaschristou/Tech_Portfolio/tree/main/Smart_Trash_Bin
 
 
 ---
