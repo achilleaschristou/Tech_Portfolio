@@ -32,6 +32,15 @@ Make the world a more enviromentally friendly place for all of us and reduce glo
 
 ---
 
+## 💡 Future Improvements
+
+- Self-Cleaning Mechanism with a simple wiping or UV sterilization system to keep bins hygienic 🧼
+- Solar-Powered Operation by making it energy-efficient and integrating a small solar panel to power sensors and motors ☀️
+- Voice Control & Smart Home Integration to allow opening/closing via voice commands or integrate with Google Home / Alexa 🎙️🏠
+- Add system monitoring scripts for temperature and performance 📊
+
+---
+
 ## 🚀 Notes
 
 Created as an independent engineering project, it seeks to solve problems, improve efficiency, and implement smart automation.
