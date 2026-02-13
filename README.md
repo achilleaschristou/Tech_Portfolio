@@ -29,7 +29,7 @@ https://github.com/achilleaschristou/Tech_Portfolio/tree/main/Smart_Trash_Bin
 
 🛠 **Technology:** BIOS • Hardware Assembly • Optimization
 
-📁 **Full Explanation on how the PC was built:**
+📁 **Full Explanation on how the PC was built:** 
 https://github.com/achilleaschristou/Tech_Portfolio/tree/main/PC_Build
 
 ---
