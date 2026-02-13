@@ -6,7 +6,6 @@ The smart trash bin works by first detecting a hand in front of the sensor. Then
 
 ---
 
-If you want it more technical or more simple, tell me the audience and I’ll tune it 🎯♻️
 
 
 This project combines, automation and C++ programming. 
