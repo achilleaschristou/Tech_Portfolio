@@ -26,7 +26,9 @@
 - Updated BIOS to latest version
 
 
-🛠 **Technology:** BIOS • Hardware Assembly • Optimization  
+🛠 **Technology:** BIOS • Hardware Assembly • Optimization
+
+📁 **Full Explanation on how the PC was built:**
 
 ---
 
