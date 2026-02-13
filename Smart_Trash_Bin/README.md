@@ -8,7 +8,6 @@ The smart trash bin works by first detecting a hand in front of the sensor. Then
 
 
 
-This project combines, automation and C++ programming. 
 
 ## 🔧 Key Features
 - Motion detection and automatic lid operation
