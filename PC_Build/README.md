@@ -53,8 +53,6 @@ The goal of this project was to **learn by doing**, understand how all the hardw
 
 ## 🚀 Notes
 
-This project shows **discipline, curiosity, and hands-on problem solving** — all skills I want to carry into my future studies and work in electrical and computer engineering. It also proves that **age is not a barrier to building real systems**, just persistence and focus.  
+This project shows, **hands-on problem solving** — skill I want to carry into my future studies and work in electrical and computer engineering. It also proves that **age is not a barrier to building real systems**, just persistence and focus.  
 
 ---
-
-#PCBuild #HardwareEngineering #DIYPC #EngineeringJourney #YoungEngineer #TechPortfolio
