@@ -29,8 +29,9 @@ Before Upgrading PC
 - **Storage:** TeamGroup MP33 1TB  
 - **PSU:** InterTech Argus (720W)  
 - **Cooling:** Intel Laminar RM1
-- **Peripherals:** Keychron C3 Pro, Razer Deathadder Essential, ACER K243YE 23.8" 100hz   
+- **Peripherals:** Keychron C3 Pro, Razer Deathadder Essential, ACER K243YE 23.8" 100hz
 
+---
 
 After Upgrading PC
 
