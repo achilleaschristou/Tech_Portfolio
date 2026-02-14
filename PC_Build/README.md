@@ -54,7 +54,7 @@ The goal of this project was to **learn by doing**, understand how all the hardw
 
 ## 📁 Project Structure
   
-- `/PC_Build/photos` → Optional: photos of the build   
+- [View build photos](PC_Build/photos)  
 
 ---
 
