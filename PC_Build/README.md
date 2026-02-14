@@ -1,6 +1,6 @@
 # Custom PC Build 💻⚡
 
-I built my very first fully functioning computer at **13 years old** — completely on my own. No help from anyone, not even YouTube. In just **30 minutes**, I assembled all the components, booted it for the first time, and it worked perfectly on the first try.  
+I built my very first fully functioning computer at **13 years old** — completely on my own. Built independently as a learning challenge. In just **30 minutes**, I assembled all the components, booted it for the first time, and it worked perfectly on the first try.  
 
 After that, I upgraded the **CPU, cooler, and PSU**, overclocked and undervolted my CPU and GPU and even updated the BIOS to the latest version — all independently.  
 
