@@ -28,12 +28,15 @@ The app also includes an interactive map of Cypus showing the locations of all s
 ---  
 
 ## 🛠 Technologies Used
+For the smart bin:
+
 - Microcontroller: Kypruino / Arduino
 - Programming Languages: C++
 - Hardware: Ultrasonic sensor, servo motor, OLED display, buttons
 - Other Tools: Companion mobile app for bin monitoring
+
 For the web-app:
-   
+- Bubble App Builder (https://atoms.dev)
 ---
 
 ## 🎯 Objective
