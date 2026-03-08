@@ -44,6 +44,7 @@ Make the world a more enviromentally friendly place for all of us and reduce glo
 
 ## 📁 Project Structure
 - `/code` → https://github.com/achilleaschristou/Tech_Portfolio/blob/main/Smart_Trash_Bin/Code.txt
+- `/web-app` → 
 
 ---
 
