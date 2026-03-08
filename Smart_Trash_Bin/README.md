@@ -8,7 +8,7 @@ The smart trash bin works by first detecting a hand in front of the sensor. Then
 
 A companion mobile and web app connects to the smart bins and provides monitoring and gamification features. The app shows the fill percentage of each bin and sends a notification when they are full and need emptying. The web app also includes a gamified recycling system where users create profiles, track their recycling activity, and earn points for recycling different materials. Users can gain levels, unlock badges, and appear on leaderboards based on how much they recycle.
 
-The app also includes an interactive map of Cyrpus showing the locations of all smart recycling bins so users can easily find the nearest one. Users can participate in daily recycling challenges, tournaments, and competitions with friends, schools, or cities. The system tracks statistics such as total recycled weight, materials sorted, and environmental impact, making recycling more engaging and competitive while encouraging responsible waste management.
+The app also includes an interactive map of Cypus showing the locations of all smart recycling bins so users can easily find the nearest one. Users can participate in daily recycling challenges, tournaments, and competitions with friends, schools, or cities. The system tracks statistics such as total recycled weight, materials sorted, and environmental impact, making recycling more engaging and competitive while encouraging responsible waste management.
 
 ---
 
