@@ -4,12 +4,18 @@
 
 ## 🚀 Projects
 
-### 🤖 Intelligent Trash Can
-- Detected hand motion using ultrasonic sensor
-- Material selection via 4 color-coded buttons (Red → General, Blue → Plastic, Yellow → Glass, Black → Aluminium)
+### 🤖 Smart Trash Can
+- Detect hand motion using ultrasonic sensor
+- Material selection via 4 buttons (Red → General Waste, Blue → Paper, Yellow → PMD, Black → Aluminium)
 - Servo motor controls lid and rotating plate to sort trash
 - OLED display shows material type
-- Companion app tracks bin fill levels
+- Web-App
+  - Connects to the smart trash bin automatically
+  - Earn points by recycling rubbish by using the smart bins
+  - Includes a map of Cyprus to show the location of all the smart bins
+  - Tournaments where there are extra points to earn
+  - Leaderboards to see which user collects more points by recycling
+  - Redeem program where there are winning coupons for stores with a certain amount of points
 
 
 🛠 **Technology:** Arduino • Motors • Sensors • C++
